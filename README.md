@@ -5,6 +5,8 @@ Game Boy Advance homebrew designed to emulate the Inrou-Kun, a GameCube pedomete
 ## License
 gc-pedometer-emulator is Free Open Source Software available under the 2-Clause BSD license. See the LICENSE file for full details.
 
+Based on Extrems' Corner's gba-as-controller project -> https://github.com/extremscorner/gba-as-controller
+
 Background images were taken from Public Domain sources.
 
 ## Overview
